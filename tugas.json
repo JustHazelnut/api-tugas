@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "mataKuliah": "Pemrograman Web",
+      "judul": "Membuat Landing Page Responsif",
+      "dosen": "Annah, S.Kom., MT.",
+      "deadline": "04 Nov 2026, 23.59",
+      "tanggalKumpul": "-",
+      "status": "Belum Dikumpulkan",
+      "nilai": "-",
+      "keterangan": "Kumpulkan dalam format .zip melalui e-learning."
+    },
+    {
+      "mataKuliah": "Matematika Diskrit",
+      "judul": "Latihan Soal Logika & Himpunan",
+      "dosen": "Rahmat, S.Si., M.Si.",
+      "deadline": "05 Nov 2026, 23.59",
+      "tanggalKumpul": "-",
+      "status": "Belum Dikumpulkan",
+      "nilai": "-",
+      "keterangan": "Dikerjakan tulis tangan, lalu dipindai ke PDF."
+    },
+    {
+      "mataKuliah": "Struktur Data",
+      "judul": "Implementasi Linked List",
+      "dosen": "Dewi Lestari, S.T., M.T.",
+      "deadline": "28 Okt 2026, 23.59",
+      "tanggalKumpul": "27 Okt 2026",
+      "status": "Selesai",
+      "nilai": "90",
+      "keterangan": "Implementasi lengkap, kode rapi dan terdokumentasi."
+    },
+    {
+      "mataKuliah": "Algoritma",
+      "judul": "Analisis Kompleksitas Sorting",
+      "dosen": "Budi Santoso, M.Kom.",
+      "deadline": "21 Okt 2026, 23.59",
+      "tanggalKumpul": "23 Okt 2026",
+      "status": "Terlambat",
+      "nilai": "75",
+      "keterangan": "Terlambat 2 hari, nilai dikenai pengurangan."
+    },
+    {
+      "mataKuliah": "Basis Data",
+      "judul": "Perancangan ERD Sistem Perpustakaan",
+      "dosen": "Annah, S.Kom., MT.",
+      "deadline": "14 Okt 2026, 23.59",
+      "tanggalKumpul": "13 Okt 2026",
+      "status": "Selesai",
+      "nilai": "85",
+      "keterangan": "Relasi antar entitas sudah tepat."
+    },
+    {
+      "mataKuliah": "Jaringan Komputer",
+      "judul": "Simulasi Topologi di Packet Tracer",
+      "dosen": "Hasan, S.Kom., M.T.",
+      "deadline": "07 Okt 2026, 23.59",
+      "tanggalKumpul": "07 Okt 2026",
+      "status": "Selesai",
+      "nilai": "88",
+      "keterangan": "Konfigurasi IP dan routing berjalan baik."
+    }
+  ]
+}
